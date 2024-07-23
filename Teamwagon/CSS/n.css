@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar-brand{
+    color: #015fc9 !important;
+
+}
+.navbar-nav{
+    background: #d5e9ff;
+    border-radius: 20px;
+    width: 850px;
+    height: 60px;
+}
+.btn{
+    height: 40px;
+    margin-top: 10px;
+}
+.call{
+    margin-left: 10px;
+}
+.nav-item{
+    margin-top: 10px;
+}
+.fa-magnifying-glass{
+    margin-top: 10px;
+
+}
+.fa-solid{
+    color: white ;
+    height: 40px;
+    background: #015fc9;
+    width: 40px;
+    padding: 13px;
+    border-radius: 50%;
+}
+.fab{
+    font-size: 40px;
+    color: #015fc9;
+}
+.btn{
+    background: #015fc9 !important;
+    color: white !important;
+}
+.con{
+    display: flex;
+    margin-top: 15px;
+}
+
+.fa-magnifying-glass{
+    margin-left: 170px !important;
+}
+.carousel{
+    background-color: #083970;
+    height: 85vh;
+}
+#c{
+    display: flex !important;
+}
+.d-block{
+    height: 500px;
+}
+#life-content{
+    font-size:30px ;
+}
+#text-size{
+    font-size: 80px;
+}
+#text-content2{
+    margin-right: 50px;
+}
+#button-align{
+    margin-right: 50px;
+}
+#insurance-text{
+    font-size: 50px;
+}
+.btn-light:hover{
+    background: #001d3e !important;
+    color: white !important;
+
+}
+.btn-dark:hover{
+    background: white !important;
+    color: #001d3e !important;
+}
+#features{
+    border-radius: 10px;
+}
+#features:hover{
+    background-color: #015fc9;
+    color: white;
+}
+#features:hover .btn-primary {
+    background-color: white !important;
+    color: #015fc9 !important;
+}
+.feature-icon{
+    
+    width: 100px;
+    border-radius: 0px 0px 10px 10px;
+}
+.features:hover .feature-icon{
+    background: #001d3e !important;
+}
